@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prettycabbage
-- 👀 I’m interested in creat interactive food art!
+- 👀 I’m interested in create interactive food art!
 - 🌱 I’m currently learning javascript and blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bmjbmw@gmail.com
